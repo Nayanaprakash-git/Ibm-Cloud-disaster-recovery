@@ -151,4 +151,3 @@ AUTO_BACKUP_SCHEDULE=0 2 * * *        # Example: Daily at 2 AM
 
 ---
 
-This setup should get your project running smoothly! 
